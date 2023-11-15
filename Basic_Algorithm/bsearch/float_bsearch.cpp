@@ -7,3 +7,4 @@ int bsearch_3(int l, int r)
 		else l = mid;
 	}
 }
+
